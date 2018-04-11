@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="39" viewBox="0 0 90 39">
+    <defs>
+        <ellipse id="a" cx="10.103" cy="10.231" rx="10.103" ry="10.231"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#000" font-family="STHeitiTC-Medium, Heiti TC" font-size="10.025" font-weight="bold" letter-spacing="1.851">
+            <tspan x="1.632" y="38.905">arsena</tspan> <tspan x="45.968" y="38.905">l</tspan>
+        </text>
+        <text fill="#989898" font-family="STHeitiTC-Medium, Heiti TC" font-size="10.025" font-weight="bold" letter-spacing="1.851">
+            <tspan x="51.294" y="38.905">medi</tspan> <tspan x="83.487" y="38.905">a</tspan>
+        </text>
+        <g>
+            <use fill="#FFF" xlink:href="#a"/>
+            <ellipse cx="10.103" cy="10.231" stroke="#000" stroke-width="1.542" rx="9.332" ry="9.46"/>
+        </g>
+        <path stroke="#000" stroke-linecap="round" stroke-width="1.542" d="M19.43 10.624v9.444M20.984 2.36l7.85 8.621"/>
+        <path stroke="#AFAFAF" stroke-linecap="round" stroke-width="1.542" d="M41.968 6.997v13.858"/>
+        <path stroke="#B1B1B1" stroke-linecap="round" stroke-width="1.542" d="M40.647 2.36l-7.851 8.621"/>
+        <path fill="#AFAFAF" d="M41.19 2.36l.778-.786h-1.555z"/>
+    </g>
+</svg>

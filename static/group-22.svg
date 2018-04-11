@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="259" height="293" viewBox="0 0 259 293">
+    <defs>
+        <rect id="a" width="259" height="286" rx="24"/>
+        <path id="b" d="M19 18h222v46H19z"/>
+        <path id="c" d="M29 35h12v12H29z"/>
+        <path id="d" d="M46 35h12v12H46z"/>
+        <path id="e" d="M64 35h12v12H64z"/>
+        <path id="f" d="M138 28h74v5h-74z"/>
+        <path id="g" d="M138 48h74v5h-74z"/>
+        <path id="h" d="M138 38h74v5h-74z"/>
+        <circle id="i" cx="226" cy="41" r="5"/>
+        <path id="j" d="M19 69h222v46H19z"/>
+        <path id="k" d="M29 86h12v12H29z"/>
+        <path id="l" d="M46 86h12v12H46z"/>
+        <path id="m" d="M64 86h12v12H64z"/>
+        <path id="n" d="M138 79h74v5h-74z"/>
+        <path id="o" d="M138 99h74v5h-74z"/>
+        <path id="p" d="M138 89h74v5h-74z"/>
+        <circle id="q" cx="226" cy="92" r="5"/>
+        <path id="r" d="M19 120h222v46H19z"/>
+        <path id="s" d="M29 137h12v12H29z"/>
+        <path id="t" d="M46 137h12v12H46z"/>
+        <path id="u" d="M64 137h12v12H64z"/>
+        <path id="v" d="M138 130h74v5h-74z"/>
+        <path id="w" d="M138 150h74v5h-74z"/>
+        <path id="x" d="M138 140h74v5h-74z"/>
+        <circle id="y" cx="226" cy="143" r="5"/>
+        <path id="z" d="M19 171h222v46H19z"/>
+        <path id="A" d="M29 188h12v12H29z"/>
+        <path id="B" d="M46 188h12v12H46z"/>
+        <path id="C" d="M64 188h12v12H64z"/>
+        <path id="D" d="M138 181h74v5h-74z"/>
+        <path id="E" d="M138 201h74v5h-74z"/>
+        <path id="F" d="M138 191h74v5h-74z"/>
+        <circle id="G" cx="226" cy="194" r="5"/>
+        <path id="H" d="M19 222h222v46H19z"/>
+        <path id="I" d="M29 239h12v12H29z"/>
+        <path id="J" d="M46 239h12v12H46z"/>
+        <path id="K" d="M64 239h12v12H64z"/>
+        <path id="L" d="M138 232h74v5h-74z"/>
+        <path id="M" d="M138 252h74v5h-74z"/>
+        <path id="N" d="M138 242h74v5h-74z"/>
+        <circle id="O" cx="226" cy="245" r="5"/>
+        <path id="P" d="M39 285h49v8H39z"/>
+        <path id="Q" d="M171 285h49v8h-49z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <use fill="#FFF" xlink:href="#a"/>
+            <rect width="258" height="285" x=".5" y=".5" stroke="#C6C6C6" rx="24"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#b"/>
+            <path stroke="#C6C6C6" d="M19.5 18.5h221v45h-221z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#c"/>
+            <path stroke="#C6C6C6" d="M29.5 35.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#d"/>
+            <path stroke="#C6C6C6" d="M46.5 35.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#e"/>
+            <path stroke="#C6C6C6" d="M64.5 35.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#f"/>
+            <path stroke="#C6C6C6" d="M138.5 28.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#g"/>
+            <path stroke="#C6C6C6" d="M138.5 48.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#h"/>
+            <path stroke="#C6C6C6" d="M138.5 38.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#i"/>
+            <circle cx="226" cy="41" r="4.5" stroke="#C6C6C6"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#j"/>
+            <path stroke="#C6C6C6" d="M19.5 69.5h221v45h-221z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#k"/>
+            <path stroke="#C6C6C6" d="M29.5 86.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#l"/>
+            <path stroke="#C6C6C6" d="M46.5 86.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#m"/>
+            <path stroke="#C6C6C6" d="M64.5 86.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#n"/>
+            <path stroke="#C6C6C6" d="M138.5 79.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#o"/>
+            <path stroke="#C6C6C6" d="M138.5 99.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#p"/>
+            <path stroke="#C6C6C6" d="M138.5 89.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#q"/>
+            <circle cx="226" cy="92" r="4.5" stroke="#C6C6C6"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#r"/>
+            <path stroke="#C6C6C6" d="M19.5 120.5h221v45h-221z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#s"/>
+            <path stroke="#C6C6C6" d="M29.5 137.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#t"/>
+            <path stroke="#C6C6C6" d="M46.5 137.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#u"/>
+            <path stroke="#C6C6C6" d="M64.5 137.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#v"/>
+            <path stroke="#C6C6C6" d="M138.5 130.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#w"/>
+            <path stroke="#C6C6C6" d="M138.5 150.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#x"/>
+            <path stroke="#C6C6C6" d="M138.5 140.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#y"/>
+            <circle cx="226" cy="143" r="4.5" stroke="#C6C6C6"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#z"/>
+            <path stroke="#C6C6C6" d="M19.5 171.5h221v45h-221z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#A"/>
+            <path stroke="#C6C6C6" d="M29.5 188.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#B"/>
+            <path stroke="#C6C6C6" d="M46.5 188.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#C"/>
+            <path stroke="#C6C6C6" d="M64.5 188.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#D"/>
+            <path stroke="#C6C6C6" d="M138.5 181.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#E"/>
+            <path stroke="#C6C6C6" d="M138.5 201.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#F"/>
+            <path stroke="#C6C6C6" d="M138.5 191.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#G"/>
+            <circle cx="226" cy="194" r="4.5" stroke="#C6C6C6"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#H"/>
+            <path stroke="#C6C6C6" d="M19.5 222.5h221v45h-221z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#I"/>
+            <path stroke="#C6C6C6" d="M29.5 239.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#J"/>
+            <path stroke="#C6C6C6" d="M46.5 239.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#K"/>
+            <path stroke="#C6C6C6" d="M64.5 239.5h11v11h-11z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#L"/>
+            <path stroke="#C6C6C6" d="M138.5 232.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#M"/>
+            <path stroke="#C6C6C6" d="M138.5 252.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#N"/>
+            <path stroke="#C6C6C6" d="M138.5 242.5h73v4h-73z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#O"/>
+            <circle cx="226" cy="245" r="4.5" stroke="#C6C6C6"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#P"/>
+            <path stroke="#C6C6C6" d="M39.5 285.5h48v7h-48z"/>
+        </g>
+        <g>
+            <use fill="#FFF" xlink:href="#Q"/>
+            <path stroke="#C6C6C6" d="M171.5 285.5h48v7h-48z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="470" viewBox="0 0 280 470">
+    <defs>
+        <path id="a" d="M0 46.19C0 20.68 20.689 0 46.197 0h187.606C259.317 0 280 20.687 280 46.19V470H0V46.19z"/>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="52.241%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".145"/>
+            <stop offset="46.937%" stop-color="#FFF" stop-opacity=".478"/>
+            <stop offset="72.447%" stop-color="#FFF" stop-opacity=".659"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="c" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#FFF" xlink:href="#a"/>
+            <path stroke="#CBCBCB" stroke-width=".7" d="M.35 469.65h279.3V46.19c0-25.312-20.529-45.84-45.847-45.84H46.197C20.88.35.35 20.875.35 46.19v423.46zm279.3 0h.35l-.35.35v-.35z"/>
+            <path fill="url(#b)" d="M-17.5 386.071h349.3v123.795H-17.5z" mask="url(#c)"/>
+        </g>
+        <g stroke="#6BBFFF">
+            <path d="M243.251 279.229s-12.388.063-13.076-.937c-.567-.826.995-3.203 1.377-3.416.677-.377 5.036-.96 8.459-3.626.34-.408.853-1.426.373-2.869-.935-1.189-3.232-2.983-3.231-7.359 0-3.621 2.236-7.398 6.098-7.398"/>
+            <path d="M243.237 279.229s12.388.063 13.076-.937c.567-.826-.996-3.203-1.378-3.416-.676-.377-5.036-.96-8.458-3.626-.34-.408-.854-1.426-.373-2.869.935-1.189 3.232-2.983 3.231-7.359 0-3.621-2.236-7.398-6.098-7.398"/>
+        </g>
+        <g opacity=".79">
+            <g transform="translate(246.2 42.497)">
+                <path fill="#000" d="M16.45 4.546c.386 0 .7-.365.7-.816v-.816c0-.45-.314-.816-.7-.816h-.35v2.448h.35z"/>
+                <path stroke="#000" stroke-width=".7" d="M.875.35C.588.35.35.596.35.906v4.832c0 .31.238.557.525.557h14c.287 0 .525-.247.525-.557V.906c0-.31-.238-.556-.525-.556h-14z"/>
+                <rect width="14" height="4.85" x=".902" y=".903" fill="#000" rx=".35"/>
+            </g>
+            <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="8.4" letter-spacing="-.73" transform="translate(215.8 41.098)">
+                <tspan x="5.269" y="8">1</tspan> <tspan x="9.209" y="8">00%</tspan>
+            </text>
+            <g fill="#000" font-family="HelveticaNeue, Helvetica Neue">
+                <text font-size="8.4" letter-spacing="-.59" transform="translate(129 39)">
+                    <tspan x=".35" y="9.399">1</tspan> <tspan x="4.43" y="9.399">0</tspan>
+                </text>
+                <text font-size="8.4" letter-spacing=".11" transform="translate(129 39)">
+                    <tspan x="12.95" y="9.399">0</tspan> <tspan x="17.73" y="9.399">0</tspan>
+                </text>
+                <text font-size="8.145" letter-spacing=".7" transform="translate(129 39)">
+                    <tspan x="9.835" y="8.35">:</tspan>
+                </text>
+            </g>
+            <g>
+                <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="8.4" letter-spacing=".34" transform="translate(18 40.147)">
+                    <tspan x="27" y="8">4</tspan> <tspan x="32.01" y="8">G</tspan>
+                </text>
+                <path fill="#000" d="M19.942 43.896c1.073 0 1.942.861 1.942 1.923s-.87 1.924-1.942 1.924A1.933 1.933 0 0 1 18 45.819c0-1.062.87-1.923 1.942-1.923zM24.842 43.896c1.073 0 1.942.861 1.942 1.923s-.87 1.924-1.942 1.924a1.933 1.933 0 0 1-1.942-1.924c0-1.062.87-1.923 1.942-1.923zM29.725 43.896c1.072 0 1.942.861 1.942 1.923s-.87 1.924-1.942 1.924a1.933 1.933 0 0 1-1.942-1.924c0-1.062.87-1.923 1.942-1.923zM34.642 43.896c1.073 0 1.942.861 1.942 1.923s-.87 1.924-1.942 1.924a1.933 1.933 0 0 1-1.942-1.924c0-1.062.87-1.923 1.942-1.923z"/>
+                <path stroke="#000" stroke-width=".7" d="M41.134 45.82c0-.869-.712-1.574-1.592-1.574-.88 0-1.592.705-1.592 1.573 0 .869.712 1.574 1.592 1.574.88 0 1.592-.706 1.592-1.574z"/>
+            </g>
+        </g>
+        <path stroke="#CDCDCD" stroke-width=".7" d="M16.35 64.593v24.484a5.248 5.248 0 0 0 5.247 5.243h236.606a5.25 5.25 0 0 0 5.247-5.243V64.593a5.248 5.248 0 0 0-5.247-5.243H21.597a5.25 5.25 0 0 0-5.247 5.243z"/>
+        <path fill="#000" d="M248.047 73.526v-1.315l3.64 1.983-3.64 1.983v-1.66c-1.932.002-3.497 1.48-3.497 3.303 0 1.824 1.567 3.303 3.5 3.303 1.808 0 3.296-1.315 3.48-2.974.368 0 .792.004 1.056.004-.186 2.21-2.146 3.96-4.536 3.96-2.513 0-4.55-1.922-4.55-4.293 0-2.37 2.035-4.292 4.547-4.294z"/>
+        <text fill="#797979" font-family="MuktaVaani-Light, Mukta Vaani" font-size="12.39" font-weight="300" letter-spacing=".329" transform="translate(16 59)">
+            <tspan x="12.6" y="21.693">zero.balance.com/</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="28" y="143">Your balance</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="27" y="231">Request loan</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="27" y="273">Friend loan</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="27" y="316">Notify by call</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="27" y="359">Notify by SMS</tspan>
+        </text>
+        <text fill="#000" font-family="Quicksand-Regular, Quicksand" font-size="14.91" letter-spacing=".157">
+            <tspan x="27" y="401">Send voice message</tspan>
+        </text>
+        <g fill="#050505" font-family="Quicksand-Regular, Quicksand">
+            <text font-size="33.6" letter-spacing="2.506" transform="translate(27 152)">
+                <tspan x="0" y="31.699">$</tspan>
+            </text>
+            <text font-size="34.3" letter-spacing="1.155" transform="translate(27 152)">
+                <tspan x="33.6" y="32">-0.1</tspan> <tspan x="95.947" y="32">2</tspan>
+            </text>
+        </g>
+        <g stroke="#9D41CE" transform="translate(233 384)">
+            <path d="M0 12.59c2.714 9.966 16.286 9.966 19 0"/>
+            <rect width="6" height="14" x="6.5" y=".5" rx="2"/>
+            <path stroke-linecap="square" d="M9.5 20.632v4.197"/>
+        </g>
+        <path fill="#F353AE" d="M234 350h16v1h-16zM234 354h16v1h-16z"/>
+        <path stroke="#F353AE" d="M255.5 360.5h-21.707l-5.293 5.293v-3.802V345c0-.272.226-.5.497-.5h26.006c.278 0 .497.22.497.5v15.5z"/>
+        <g>
+            <path stroke="#FF894B" d="M230.954 305.414l4.869 8.462 2.852-1.906c.275-.184.413-.608.3-.915l-2.756-7.576c-.161-.442-.59-.603-1.003-.379l-4.262 2.314z"/>
+            <path fill="#FFF" d="M237.358 314.61l-6.256-10.615-1.749.97 5.993 10.812z"/>
+            <path stroke="#FF894B" d="M251.77 326.23l-8.462-4.87 1.906-2.85c.184-.276.608-.414.915-.302l7.576 2.757c.441.16.603.59.379 1.003l-2.315 4.262z"/>
+            <path fill="#FFF" d="M242.573 319.826l10.616 6.256-.97 1.749-10.812-5.993z"/>
+            <path stroke="#FF894B" stroke-linecap="square" d="M231.657 305.02s3.359 6.895 8.485 12.022c5.127 5.126 12.021 8.485 12.021 8.485M244.735 302.55s8.046 1.233 9.9 9.9M244.735 306.791s4.466.838 5.657 5.657"/>
+        </g>
+        <g>
+            <path stroke="#3A61EF" d="M249.648 218.389c-11.484-7.304-16.796 5.46-6.01 6.69 3.198.472 6.375 1.603 6.237 4.733-.227 5.157-8.117 6.304-13.273 1.34"/>
+            <path fill="#3A61EF" d="M243 213.5h1v24h-1z"/>
+        </g>
+    </g>
+</svg>
